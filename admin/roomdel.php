@@ -72,7 +72,7 @@ $rre=mysqli_query($con,$rsql);
                         <a  href="settings.php"><i class="fa fa-dashboard"></i>Room Status</a>
                     </li>
 					<li>
-                        <a   href="room.php"><i class="fa fa-plus-circle"></i>Add Room</a>
+                        <a   href="room.php"><i class="fa fa-plus-circle"></i>Add a Room</a>
                     </li>
                     <li>
                         <a  class="active-menu" href="roomdel.php"><i class="fa fa-pencil-square-o"></i> Delete Room</a>
