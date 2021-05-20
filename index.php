@@ -244,7 +244,7 @@ include('db.php');
 			 		<h4>Stay First, Pay After! </h4>
 			 		<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Decorated room, proper air conditioned</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Private balcony</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>A Private balcony</p>
 			 		
 			 	</div>
 			 </div>
