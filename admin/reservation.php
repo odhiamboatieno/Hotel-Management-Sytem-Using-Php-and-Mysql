@@ -83,11 +83,10 @@ include('db.php')
 							   <div class="form-group">
                                             <label>Nationality*</label>
                                             <label class="radio-inline">
-                                                <input type="radio" name="nation"  value="Sri Lankan" checked="">Sri Lankan
+                                                <input type="radio" name="nation"  value="Kenyan" checked="">Sri Lankan
                                             </label>
                                             <label class="radio-inline">
-                                                <input type="radio" name="nation"  value="Non Sri Lankan ">Non Sri Lankan 
-                                            </label>
+                                                <input type="radio" name="nation"  value="Non Sri Lankan ">Non Kenyan
                          
                                 </div>
 								<?php
