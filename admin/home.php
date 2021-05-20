@@ -232,7 +232,7 @@ if(!isset($_SESSION["user"]))
                                         <h4 class="panel-title">
                                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed">
 											<button class="btn btn-primary" type="button">
-												 Booked Rooms  <span class="badge"><?php echo $r ; ?></span>
+												 Rooms Booked  <span class="badge"><?php echo $r ; ?></span>
 											</button>
 											
 											</a>
@@ -365,7 +365,7 @@ if(!isset($_SESSION["user"]))
                                     <div class='modal-content'>
                                         <div class='modal-header'>
                                             <button type='button' class='close' data-dismiss='modal' aria-hidden='true'>&times;</button>
-                                            <h4 class='modal-title' id='myModalLabel'>Change the User name and Password</h4>
+                                            <h4 class='modal-title' id='myModalLabel'>Change the Username and Password</h4>
                                         </div>
 										<form method='post>
                                         <div class='modal-body'>
